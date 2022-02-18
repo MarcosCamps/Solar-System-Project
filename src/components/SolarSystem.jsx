@@ -16,3 +16,4 @@ class SolarSystem extends React.Component {
 }
 
 export default SolarSystem;
+// Auxílio do Rafa tribo B.
